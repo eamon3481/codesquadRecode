@@ -42,7 +42,7 @@
 |step|name|repository|
 |------|---|---|
 |1-2|Airbnb 메인화면 클론코딩|[fe-w12-airbnb](https://github.com/eamon3481/fe-w12-airbnb)|
-|3|쇼핑하우 클론코딩|[fe-w3-shopping]()|
+|3|쇼핑하우 클론코딩|[fe-w3-shopping](https://github.com/eamon3481/fe-w3-shopping)|
 |4|마크 와트니와 통신하라|[fe-w4-martian](https://github.com/eamon3481/fe-w4-martian)|
 |5|자판기 만들기(페어)|[fe-w7-vm](https://github.com/eamon3481/fe-w7-vm)|
 |6|json parser (페어)|[fe-w8-json-parser](https://github.com/hayoung123/fe-w8-json-parser/tree/EamonKyle)|
